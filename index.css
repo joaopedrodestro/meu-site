@@ -32,3 +32,21 @@ footer img{
     width: 40px;
     height: 20px;
 }
+
+footer {
+    display: flex;
+    justify-content: center;
+}
+footer a {
+    margin: 20px;
+    text-align: center;
+}
+footer p {
+    margin: 20px;
+}
+.conteiner {
+    padding: 0px 50px;
+}
+nav a:hover {
+    color: green;
+}
