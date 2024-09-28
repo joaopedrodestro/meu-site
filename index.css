@@ -16,3 +16,19 @@ a {
     color: white;
     text-decoration: none;
 }
+
+ foto img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid violet;
+}
+
+.foto{
+    text-align: foto;
+}
+
+footer img{
+    width: 40px;
+    height: 20px;
+}
