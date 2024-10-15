@@ -1,6 +1,6 @@
 body {
     color: white;
-    background-color: greenyellow;
+    background-color: rgb(19, 219, 19);
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -14,7 +14,7 @@ ul {
 
 a {
     color: white;
-    text-decoration: none;
+    text-decoration: green;
 }
 
  foto img {
